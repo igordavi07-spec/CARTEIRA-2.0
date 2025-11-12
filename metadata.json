@@ -1,0 +1,5 @@
+{
+  "name": "Carteira Virtual",
+  "description": "A personal finance control web application to manage income, expenses, and budget. It features a dashboard with financial summaries, transaction tracking, and insightful charts to visualize spending patterns.",
+  "requestFramePermissions": []
+}
